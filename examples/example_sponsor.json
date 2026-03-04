@@ -1,0 +1,13 @@
+{
+  "project_name": "Proyecto Cultural",
+  "event_name": "Recorrido patrimonial",
+  "sponsor_name": "Marca X",
+  "scores": {
+    "cultural_identity": 4,
+    "brand_congruence": 4,
+    "curatorial_control": 3,
+    "brand_saturation": 3,
+    "community_impact": 3
+  },
+  "notes": "Supuesto: la marca no define programación; branding limitado."
+}
